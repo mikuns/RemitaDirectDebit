@@ -1,4 +1,4 @@
-﻿# RemitaDirectDebit
+﻿# Remita Direct Debit API Implementation
 
 ### Remita API Setup for implementing Direct Debit 
 
