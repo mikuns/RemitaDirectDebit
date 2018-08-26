@@ -1,0 +1,722 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="db262377-bf53-4526-b3d8-4eec498ad063" name="Default" comment="Merge branch 'master' of https://bitbucket.org/kraneum/fint_web&#10;&#10;# Conflicts:&#10;#&#9;sql_php/bluCommands.php">
+      <change beforePath="" afterPath="$PROJECT_DIR$/../fint/employee/employee_schedule/1516122672.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../fint/employee/employee_schedule/1_1519892173.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../fint/employee/employee_schedule/1_1519895675.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../fint/employee/employee_schedule/1_1519895755.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../fint/employee/employee_schedule/1_1519895792.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../fint/employee/employee_schedule/1_1519897972.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../fint/employee/employee_schedule/1_1519900272.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../fint/employee/employee_schedule/2_1519892179.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../fint/employee/employee_schedule/56_1519892182.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../fint/employee/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../fint/employee/payback_updater.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../fint/employee/upload.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../fint/nnamdi93_blu (8).sql" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../fint/redirect.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../fint/sql_php/MoneyWaveBeast.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../fint/sql_php/moneyWaveAPI.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../fint/sql_php/moneywave.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../fint/sql_php/revenue_csvs/1519732789.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../fint/sql_php/revenue_csvs/1519732798.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../fint/sql_php/revenue_csvs/1519732806.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../fint/sql_php/revenue_csvs/1519732811.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../fint/sql_php/revenue_csvs/1519732820.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../fint/sql_php/revenue_tracker_detailed.php" />
+      <change beforePath="$PROJECT_DIR$/../fint/assets/js/bootstrap-datepicker.js" afterPath="$PROJECT_DIR$/../fint/assets/js/bootstrap-datepicker.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/assets/js/bootstrap.js" afterPath="$PROJECT_DIR$/../fint/assets/js/bootstrap.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/assets/js/fileinput.js" afterPath="$PROJECT_DIR$/../fint/assets/js/fileinput.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/assets/js/fint-borrower-register.js" afterPath="$PROJECT_DIR$/../fint/assets/js/fint-borrower-register.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/assets/js/fint-lender-register.js" afterPath="$PROJECT_DIR$/../fint/assets/js/fint-lender-register.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/assets/js/fint-register.js" afterPath="$PROJECT_DIR$/../fint/assets/js/fint-register.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/assets/js/fullcalendar-2/fullcalendar.js" afterPath="$PROJECT_DIR$/../fint/assets/js/fullcalendar-2/fullcalendar.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/assets/js/fullcalendar/fullcalendar.js" afterPath="$PROJECT_DIR$/../fint/assets/js/fullcalendar/fullcalendar.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/assets/js/ie8-responsive-file-warning.js" afterPath="$PROJECT_DIR$/../fint/assets/js/ie8-responsive-file-warning.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/assets/js/joinable.js" afterPath="$PROJECT_DIR$/../fint/assets/js/joinable.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/assets/js/jquery-ui/js/jquery-ui-1.10.3.custom.js" afterPath="$PROJECT_DIR$/../fint/assets/js/jquery-ui/js/jquery-ui-1.10.3.custom.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/assets/js/jquery.multi-select.js" afterPath="$PROJECT_DIR$/../fint/assets/js/jquery.multi-select.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/assets/js/neon-calendar-2.js" afterPath="$PROJECT_DIR$/../fint/assets/js/neon-calendar-2.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/assets/js/neon-calendar.js" afterPath="$PROJECT_DIR$/../fint/assets/js/neon-calendar.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/assets/js/neon-charts.js" afterPath="$PROJECT_DIR$/../fint/assets/js/neon-charts.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/assets/js/neon-chat.js" afterPath="$PROJECT_DIR$/../fint/assets/js/neon-chat.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/assets/js/neon-custom.js" afterPath="$PROJECT_DIR$/../fint/assets/js/neon-custom.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/assets/js/neon-demo.js" afterPath="$PROJECT_DIR$/../fint/assets/js/neon-demo.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/assets/js/neon-forgotpassword.js" afterPath="$PROJECT_DIR$/../fint/assets/js/neon-forgotpassword.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/assets/js/neon-login.js" afterPath="$PROJECT_DIR$/../fint/assets/js/neon-login.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/assets/js/neon-mail.js" afterPath="$PROJECT_DIR$/../fint/assets/js/neon-mail.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/assets/js/neon-notes.js" afterPath="$PROJECT_DIR$/../fint/assets/js/neon-notes.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/assets/js/neon-register.js" afterPath="$PROJECT_DIR$/../fint/assets/js/neon-register.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/assets/js/select2/select2.js" afterPath="$PROJECT_DIR$/../fint/assets/js/select2/select2.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/assets/js/select2/select2_locale_cs.js" afterPath="$PROJECT_DIR$/../fint/assets/js/select2/select2_locale_cs.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/assets/js/selectboxit/js/jquery.selectBoxIt.js" afterPath="$PROJECT_DIR$/../fint/assets/js/selectboxit/js/jquery.selectBoxIt.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/assets/js/selectboxit/js/modules/jquery.selectBoxIt.core.js" afterPath="$PROJECT_DIR$/../fint/assets/js/selectboxit/js/modules/jquery.selectBoxIt.core.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/assets/js/selectboxit/js/modules/jquery.selectBoxIt.endClosure.js" afterPath="$PROJECT_DIR$/../fint/assets/js/selectboxit/js/modules/jquery.selectBoxIt.endClosure.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/assets/js/uikit/addons/js/markdownarea.js" afterPath="$PROJECT_DIR$/../fint/assets/js/uikit/addons/js/markdownarea.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/assets/js/uikit/js/uikit.js" afterPath="$PROJECT_DIR$/../fint/assets/js/uikit/js/uikit.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/blucreditscorerphp/interest_rates.php" afterPath="$PROJECT_DIR$/../fint/blucreditscorerphp/interest_rates.php" />
+      <change beforePath="$PROJECT_DIR$/../fint/charts/dist/Chart.bundle.js" afterPath="$PROJECT_DIR$/../fint/charts/dist/Chart.bundle.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/charts/dist/Chart.js" afterPath="$PROJECT_DIR$/../fint/charts/dist/Chart.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/htaccess" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../fint/js/blu.html" afterPath="$PROJECT_DIR$/../fint/js/blu.html" />
+      <change beforePath="$PROJECT_DIR$/../fint/js/blu_files/general_home.js" afterPath="$PROJECT_DIR$/../fint/js/blu_files/general_home.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/js/blu_files/loading_overlay.js" afterPath="$PROJECT_DIR$/../fint/js/blu_files/loading_overlay.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/js/blu_files/spin.js" afterPath="$PROJECT_DIR$/../fint/js/blu_files/spin.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/js/bootstrap-datepicker.js" afterPath="$PROJECT_DIR$/../fint/js/bootstrap-datepicker.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/js/bor_home_page.js" afterPath="$PROJECT_DIR$/../fint/js/bor_home_page.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/js/bor_loans_page.js" afterPath="$PROJECT_DIR$/../fint/js/bor_loans_page.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/js/bor_profile_page.js" afterPath="$PROJECT_DIR$/../fint/js/bor_profile_page.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/js/contact.js" afterPath="$PROJECT_DIR$/../fint/js/contact.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/js/dropzone.js" afterPath="$PROJECT_DIR$/../fint/js/dropzone.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/js/financial_functions.js" afterPath="$PROJECT_DIR$/../fint/js/financial_functions.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/js/general_home.js" afterPath="$PROJECT_DIR$/../fint/js/general_home.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/js/inv_home_page.js" afterPath="$PROJECT_DIR$/../fint/js/inv_home_page.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/js/inv_invest_page.js" afterPath="$PROJECT_DIR$/../fint/js/inv_invest_page.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/js/inv_notes_page.js" afterPath="$PROJECT_DIR$/../fint/js/inv_notes_page.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/js/inv_profile_page.js" afterPath="$PROJECT_DIR$/../fint/js/inv_profile_page.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/js/invoice.js" afterPath="$PROJECT_DIR$/../fint/js/invoice.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/js/learn.js" afterPath="$PROJECT_DIR$/../fint/js/learn.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/js/loading_overlay.js" afterPath="$PROJECT_DIR$/../fint/js/loading_overlay.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/js/loan_application.js" afterPath="$PROJECT_DIR$/../fint/js/loan_application.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/js/loan_application_2.js" afterPath="$PROJECT_DIR$/../fint/js/loan_application_2.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/js/metrics.js" afterPath="$PROJECT_DIR$/../fint/js/metrics.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/js/require.js" afterPath="$PROJECT_DIR$/../fint/js/require.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/js/spin.js" afterPath="$PROJECT_DIR$/../fint/js/spin.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/js/user_inv_data.js" afterPath="$PROJECT_DIR$/../fint/js/user_inv_data.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/login/assets/js/bootstrap-datepicker.js" afterPath="$PROJECT_DIR$/../fint/login/assets/js/bootstrap-datepicker.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/login/assets/js/bootstrap.js" afterPath="$PROJECT_DIR$/../fint/login/assets/js/bootstrap.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/login/assets/js/fileinput.js" afterPath="$PROJECT_DIR$/../fint/login/assets/js/fileinput.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/login/assets/js/fint-borrower-register.js" afterPath="$PROJECT_DIR$/../fint/login/assets/js/fint-borrower-register.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/login/assets/js/fint-lender-register.js" afterPath="$PROJECT_DIR$/../fint/login/assets/js/fint-lender-register.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/login/assets/js/fint-register.js" afterPath="$PROJECT_DIR$/../fint/login/assets/js/fint-register.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/login/assets/js/fullcalendar-2/fullcalendar.js" afterPath="$PROJECT_DIR$/../fint/login/assets/js/fullcalendar-2/fullcalendar.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/login/assets/js/fullcalendar/fullcalendar.js" afterPath="$PROJECT_DIR$/../fint/login/assets/js/fullcalendar/fullcalendar.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/login/assets/js/ie8-responsive-file-warning.js" afterPath="$PROJECT_DIR$/../fint/login/assets/js/ie8-responsive-file-warning.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/login/assets/js/joinable.js" afterPath="$PROJECT_DIR$/../fint/login/assets/js/joinable.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/login/assets/js/jquery-ui/js/jquery-ui-1.10.3.custom.js" afterPath="$PROJECT_DIR$/../fint/login/assets/js/jquery-ui/js/jquery-ui-1.10.3.custom.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/login/assets/js/jquery.multi-select.js" afterPath="$PROJECT_DIR$/../fint/login/assets/js/jquery.multi-select.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/login/assets/js/neon-calendar-2.js" afterPath="$PROJECT_DIR$/../fint/login/assets/js/neon-calendar-2.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/login/assets/js/neon-calendar.js" afterPath="$PROJECT_DIR$/../fint/login/assets/js/neon-calendar.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/login/assets/js/neon-charts.js" afterPath="$PROJECT_DIR$/../fint/login/assets/js/neon-charts.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/login/assets/js/neon-chat.js" afterPath="$PROJECT_DIR$/../fint/login/assets/js/neon-chat.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/login/assets/js/neon-custom.js" afterPath="$PROJECT_DIR$/../fint/login/assets/js/neon-custom.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/login/assets/js/neon-demo.js" afterPath="$PROJECT_DIR$/../fint/login/assets/js/neon-demo.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/login/assets/js/neon-forgotpassword.js" afterPath="$PROJECT_DIR$/../fint/login/assets/js/neon-forgotpassword.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/login/assets/js/neon-login.js" afterPath="$PROJECT_DIR$/../fint/login/assets/js/neon-login.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/login/assets/js/neon-mail.js" afterPath="$PROJECT_DIR$/../fint/login/assets/js/neon-mail.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/login/assets/js/neon-notes.js" afterPath="$PROJECT_DIR$/../fint/login/assets/js/neon-notes.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/login/assets/js/neon-register.js" afterPath="$PROJECT_DIR$/../fint/login/assets/js/neon-register.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/login/assets/js/select2/select2.js" afterPath="$PROJECT_DIR$/../fint/login/assets/js/select2/select2.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/login/assets/js/select2/select2_locale_cs.js" afterPath="$PROJECT_DIR$/../fint/login/assets/js/select2/select2_locale_cs.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/login/assets/js/selectboxit/js/jquery.selectBoxIt.js" afterPath="$PROJECT_DIR$/../fint/login/assets/js/selectboxit/js/jquery.selectBoxIt.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/login/assets/js/selectboxit/js/modules/jquery.selectBoxIt.core.js" afterPath="$PROJECT_DIR$/../fint/login/assets/js/selectboxit/js/modules/jquery.selectBoxIt.core.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/login/assets/js/selectboxit/js/modules/jquery.selectBoxIt.endClosure.js" afterPath="$PROJECT_DIR$/../fint/login/assets/js/selectboxit/js/modules/jquery.selectBoxIt.endClosure.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/login/assets/js/uikit/addons/js/markdownarea.js" afterPath="$PROJECT_DIR$/../fint/login/assets/js/uikit/addons/js/markdownarea.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/login/assets/js/uikit/js/uikit.js" afterPath="$PROJECT_DIR$/../fint/login/assets/js/uikit/js/uikit.js" />
+      <change beforePath="$PROJECT_DIR$/../fint/sql_php/bluCommands.php" afterPath="$PROJECT_DIR$/../fint/sql_php/bluCommands.php" />
+      <change beforePath="$PROJECT_DIR$/../fint/sql_php/blu_config.php" afterPath="$PROJECT_DIR$/../fint/sql_php/blu_config.php" />
+      <change beforePath="$PROJECT_DIR$/../fint/sql_php/cron.php" afterPath="$PROJECT_DIR$/../fint/sql_php/cron.php" />
+      <change beforePath="$PROJECT_DIR$/../fint/sql_php/cron_2_day.php" afterPath="$PROJECT_DIR$/../fint/sql_php/cron_2_day.php" />
+      <change beforePath="$PROJECT_DIR$/../fint/sql_php/employee_schedule/0_1517242070.csv" afterPath="$PROJECT_DIR$/../fint/employee/employee_schedule/0_1517242070.csv" />
+      <change beforePath="$PROJECT_DIR$/../fint/sql_php/employee_schedule/0_1517242186.csv" afterPath="$PROJECT_DIR$/../fint/employee/employee_schedule/0_1517242186.csv" />
+      <change beforePath="$PROJECT_DIR$/../fint/sql_php/employee_schedule/0_1517242233.csv" afterPath="$PROJECT_DIR$/../fint/employee/employee_schedule/0_1517242233.csv" />
+      <change beforePath="$PROJECT_DIR$/../fint/sql_php/employee_schedule/0_1517242299.csv" afterPath="$PROJECT_DIR$/../fint/employee/employee_schedule/0_1517242299.csv" />
+      <change beforePath="$PROJECT_DIR$/../fint/sql_php/employees.php" afterPath="$PROJECT_DIR$/../fint/employee/employees.php" />
+      <change beforePath="$PROJECT_DIR$/../fint/sql_php/flutterwave.php" afterPath="$PROJECT_DIR$/../fint/sql_php/flutterwave.php" />
+      <change beforePath="$PROJECT_DIR$/../fint/sql_php/login.php" afterPath="$PROJECT_DIR$/../fint/sql_php/login.php" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="remita_commands.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/remita_commands.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="303">
+              <caret line="30" column="15" lean-forward="true" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="connect.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/connect.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/js/script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="172">
+              <caret line="141" column="54" lean-forward="false" selection-start-line="141" selection-start-column="54" selection-end-line="141" selection-end-column="54" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="callbackURL.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/callbackURL.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1587">
+              <caret line="69" column="20" lean-forward="false" selection-start-line="69" selection-start-column="20" selection-end-line="69" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="commands.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/commands.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4462">
+              <caret line="194" column="18" lean-forward="false" selection-start-line="194" selection-start-column="18" selection-end-line="194" selection-end-column="18" />
+              <folding>
+                <element signature="e#15355#15786#0#PHP" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1311">
+              <caret line="57" column="57" lean-forward="false" selection-start-line="57" selection-start-column="57" selection-end-line="57" selection-end-column="57" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/functions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1817">
+              <caret line="79" column="42" lean-forward="false" selection-start-line="79" selection-start-column="42" selection-end-line="79" selection-end-column="42" />
+              <folding>
+                <marker date="1519822126048" expanded="true" signature="2265:2303" ph="SELECT COUNT... users" />
+                <marker date="1519822126048" expanded="true" signature="2265:2439" ph="SELECT COUNT... " />
+                <marker date="1519822126048" expanded="true" signature="2315:2369" ph="SELECT COUNT... users" />
+                <marker date="1519822126048" expanded="true" signature="2381:2439" ph="SELECT COUNT... users" />
+                <marker date="1519822126048" expanded="true" signature="2811:2839" ph="INSERT INTO ${$table}... " />
+                <marker date="1519822126048" expanded="true" signature="4361:4389" ph="INSERT INTO ${$table}... " />
+                <marker date="1519822126048" expanded="true" signature="5214:5226" ph="DELETE FROM ${$table}... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>runSimpleFetchQuery</find>
+      <find>result</find>
+      <find>RequestOTPforMandateActivation</find>
+      <find>dblog</find>
+      <find>$_GET['</find>
+      <find>date</find>
+      <find>alert</find>
+      <find>mStatusModal</find>
+      <find>cancelMandateModal</find>
+      <find>90</find>
+      <find>30</find>
+      <find>30 Day</find>
+      <find>90 Day</find>
+      <find>FUNDIN</find>
+      <find>baseMandateViewURL</find>
+      <find>baseRemitaURL</find>
+      <find>history</find>
+      <find>MandateTransactionHistoryURL</find>
+      <find>fundingBankCode</find>
+      <find>merch</find>
+      <find>merchantId</find>
+      <find>customers_tbl</find>
+      <find>merchantID</find>
+      <find>invalid user</find>
+      <find>setu</find>
+      <find>ayomik</find>
+      <find>fint</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\xampp\htdocs\fint\sql_php</dir>
+      <dir>C:\xampp\htdocs\RemitaController</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../fint" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/connect.php" />
+        <option value="$PROJECT_DIR$/../genius/t/final4.php" />
+        <option value="$PROJECT_DIR$/../genius/t/final3.php" />
+        <option value="$PROJECT_DIR$/../LearnNaija/index.php" />
+        <option value="$PROJECT_DIR$/../LearnNaija/header.php" />
+        <option value="$PROJECT_DIR$/../LearnNaija/overview.php" />
+        <option value="$PROJECT_DIR$/../genius/cronjob/composer.json" />
+        <option value="$PROJECT_DIR$/../genius/cronjob/cronjob_commands.php" />
+        <option value="$PROJECT_DIR$/../genius/cronjob/cronjob_functions.php" />
+        <option value="$PROJECT_DIR$/../genius/cronjob/connect.php" />
+        <option value="$PROJECT_DIR$/../genius/cronjob/index.php" />
+        <option value="$PROJECT_DIR$/../genius/cronjob/email.php" />
+        <option value="$PROJECT_DIR$/../genius/cronjob/sms_sender.php" />
+        <option value="$PROJECT_DIR$/index1.php" />
+        <option value="$PROJECT_DIR$/t.html" />
+        <option value="$PROJECT_DIR$/history.php" />
+        <option value="$PROJECT_DIR$/modals.php" />
+        <option value="$PROJECT_DIR$/t.php" />
+        <option value="$PROJECT_DIR$/../genius/cronjob/adapter.php" />
+        <option value="$USER_HOME$/Desktop/FINT/remita.sql" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/connect.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/commands.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/callbackURL.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-3/commands.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-3/callbackURL.php" />
+        <option value="$PROJECT_DIR$/script.js" />
+        <option value="$PROJECT_DIR$/callbackURL.php" />
+        <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/assets/js/script.js" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/remita_commands.php" />
+        <option value="$PROJECT_DIR$/commands.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="RemitaController" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RemitaController" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\RemitaController\assets" />
+      <recent name="C:\xampp\htdocs\RemitaController\js" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\remita" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db262377-bf53-4526-b3d8-4eec498ad063" name="Default" comment="" />
+      <created>1519839419233</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1519839419233</updated>
+      <workItem from="1519839424701" duration="505000" />
+      <workItem from="1519839970499" duration="3343000" />
+      <workItem from="1519889155051" duration="656000" />
+      <workItem from="1519889868301" duration="255000" />
+      <workItem from="1519890191467" duration="214000" />
+      <workItem from="1519891722264" duration="6197000" />
+      <workItem from="1520233145137" duration="5369000" />
+      <workItem from="1520248267178" duration="16620000" />
+      <workItem from="1520848086469" duration="7429000" />
+      <workItem from="1520932149222" duration="19328000" />
+      <workItem from="1521020762557" duration="7201000" />
+      <workItem from="1521030946045" duration="82082000" />
+      <workItem from="1521309423126" duration="629000" />
+      <workItem from="1521452469015" duration="721000" />
+      <workItem from="1521453671035" duration="13004000" />
+      <workItem from="1521540892779" duration="2193000" />
+      <workItem from="1521549924800" duration="9706000" />
+      <workItem from="1521616731379" duration="253000" />
+      <workItem from="1523364896592" duration="639000" />
+      <workItem from="1523539484249" duration="93000" />
+      <workItem from="1523545015850" duration="42000" />
+      <workItem from="1526897450237" duration="20117000" />
+      <workItem from="1527066300888" duration="1730000" />
+      <workItem from="1528284489278" duration="763000" />
+      <workItem from="1528287016490" duration="63000" />
+      <workItem from="1528288179723" duration="899000" />
+      <workItem from="1535317325723" duration="5906000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="205957000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14220877" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3288364" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3288364" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3288364" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14220877" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3288364" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="6" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../fint/sql_php/blu_functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="8" column="70" lean-forward="true" selection-start-line="8" selection-start-column="70" selection-end-line="8" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../fint/sql_php/cron.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9660">
+          <caret line="420" column="10" lean-forward="false" selection-start-line="420" selection-start-column="10" selection-end-line="420" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../fint/sql_php/cron_2_day.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="191" column="0" lean-forward="false" selection-start-line="191" selection-start-column="0" selection-end-line="191" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../genius/cronjob/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="28" lean-forward="false" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../fint/sql_php/bluCommands.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="5094" column="0" lean-forward="true" selection-start-line="5094" selection-start-column="0" selection-end-line="5094" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../fint/sql_php/blu_config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../fint/sql_php/flutterwave.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../fint/sql_php/emails.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1094">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../genius/cronjob/sms_sender.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../genius/sendmail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="99" column="0" lean-forward="false" selection-start-line="99" selection-start-column="0" selection-end-line="99" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xyz.php" />
+    <entry file="file://$PROJECT_DIR$/../genius/cronjob/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="38" lean-forward="false" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../genius/cronjob/cronjob_commands.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="15" column="1" lean-forward="false" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../genius/cronjob/cronjob_functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../genius/cronjob/connect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="12" column="39" lean-forward="false" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../genius/cronjob/adapter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1863">
+          <caret line="81" column="18" lean-forward="false" selection-start-line="81" selection-start-column="18" selection-end-line="81" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../genius/cronjob/email.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="19" column="10" lean-forward="false" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index1.php" />
+    <entry file="file://$PROJECT_DIR$/modals.php" />
+    <entry file="file://$PROJECT_DIR$/response.php" />
+    <entry file="file://$PROJECT_DIR$/test.php" />
+    <entry file="file://$PROJECT_DIR$/t.html" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/superglobals/_superglobals.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/FINT/remita.sql" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/cron.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/emails.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/credit_report.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/investorCommands.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/email_blast.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/cron_2_day.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/loanFullyRepaid.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/refund.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/sms_sender.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/bluCommands.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/connect.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/commands.php" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/Core/Core.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="400" column="9" lean-forward="false" selection-start-line="400" selection-start-column="9" selection-end-line="400" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="1139" column="9" lean-forward="false" selection-start-line="1139" selection-start-column="9" selection-end-line="1139" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/callbackURL.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/commands.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/callbackURL.php" />
+    <entry file="file://$PROJECT_DIR$/t.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="25" column="26" lean-forward="false" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/history.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3312">
+          <caret line="144" column="0" lean-forward="true" selection-start-line="144" selection-start-column="0" selection-end-line="144" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1817">
+          <caret line="79" column="42" lean-forward="false" selection-start-line="79" selection-start-column="42" selection-end-line="79" selection-end-column="42" />
+          <folding>
+            <marker date="1519822126048" expanded="true" signature="2265:2303" ph="SELECT COUNT... users" />
+            <marker date="1519822126048" expanded="true" signature="2265:2439" ph="SELECT COUNT... " />
+            <marker date="1519822126048" expanded="true" signature="2315:2369" ph="SELECT COUNT... users" />
+            <marker date="1519822126048" expanded="true" signature="2381:2439" ph="SELECT COUNT... users" />
+            <marker date="1519822126048" expanded="true" signature="2811:2839" ph="INSERT INTO ${$table}... " />
+            <marker date="1519822126048" expanded="true" signature="4361:4389" ph="INSERT INTO ${$table}... " />
+            <marker date="1519822126048" expanded="true" signature="5214:5226" ph="DELETE FROM ${$table}... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/callbackURL.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1587">
+          <caret line="69" column="20" lean-forward="false" selection-start-line="69" selection-start-column="20" selection-end-line="69" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="141" column="54" lean-forward="false" selection-start-line="141" selection-start-column="54" selection-end-line="141" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1311">
+          <caret line="57" column="57" lean-forward="false" selection-start-line="57" selection-start-column="57" selection-end-line="57" selection-end-column="57" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commands.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4462">
+          <caret line="194" column="18" lean-forward="false" selection-start-line="194" selection-start-column="18" selection-end-line="194" selection-end-column="18" />
+          <folding>
+            <element signature="e#15355#15786#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/remita_commands.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="30" column="15" lean-forward="true" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/connect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
